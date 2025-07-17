@@ -35,7 +35,7 @@ impl Shape for Square {
 
 fn main() {
     //println! macro -> macro expansion -> binary -> run
-    println!("Hello, world!");
+    println!("Hello, Solana folks !");
     let r = Rect {
         width: 30,
         height: 50,
